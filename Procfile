@@ -1,1 +1,1 @@
-worker: otasoka.js
+worker: node otasoka.js
