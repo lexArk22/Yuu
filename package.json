@@ -4,7 +4,7 @@
   "description": "",
   "main": "otasoka.js",
   "engines": {
-    "node": "14.2.0.x"
+    "node": "14.2.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
