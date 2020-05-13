@@ -1,0 +1,29 @@
+{
+  "name": "yuu-otasoka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "otasoka.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaira",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.1",
+    "genius-lyrics": "^2.0.1",
+    "mongodb": "^3.5.7",
+    "ms": "^2.1.2",
+    "node": "^14.2.0",
+    "opusscript": "0.0.7",
+    "path": "^0.12.7",
+    "simple-youtube-api": "^5.2.1",
+    "sqlite": "^4.0.7",
+    "vultrex.db": "^1.4.1",
+    "ytdl-core": "^2.1.2",
+    "ytdl-core-discord": "^1.2.0"
+  }
+}
